@@ -37,10 +37,10 @@ Olá! Estou em transição para a área de desenvolvimento de software, aprenden
 ### 📫 Vamos conversar?
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/henrique-miranda-5503b0294/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
+  <a href="mailto:miranda.3bpe@gmail.com"
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
